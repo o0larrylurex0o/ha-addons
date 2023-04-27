@@ -6,7 +6,7 @@
   "url": "https://github.com/o0larrylurex0o/ha-addons/tree/main/maestro_gateway",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "init": false,
-  "image": "ghcr.io/larrylurex/{arch}-addon-maestro_gateway",
+  "image": "ghcr.io/o0larrylurex0o/{arch}-addon-maestro_gateway",
   "options": {
     "USE_MCZ_CLOUD": true,
     "MQTT_ip": "core-mosquitto",
