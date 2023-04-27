@@ -13,6 +13,7 @@ _MQTT_PAYLOAD_TYPE = '$(bashio::config 'MQTT_PAYLOAD_TYPE')'
 _WS_RECONNECTS_BEFORE_ALERT = $(bashio::config 'WS_RECONNECTS_BEFORE_ALERT')
 _MCZip = '$(bashio::config 'MCZip')'
 _MCZport = '$(bashio::config 'MCZport')'
+_REFRESH_RATE = '$(bashio::config 'REFRESH_RATE')'
 _VERSION = '1.03'
 " > /maestro/local/_config_.py
 
