@@ -1,9 +1,9 @@
 {
-  "name": "Maestro Gateway",
-  "version": "2.4",
-  "slug": "maestro_gateway",
+  "name": "Maestro Gateway fork o0larryLurex0o",
+  "version": "2.4.1",
+  "slug": "maestro_gateway_o0larrylurex0o",
   "description": "MQTT Gateway to MCZ Maestro stoves' api",
-  "url": "https://github.com/SebLz/ha-addons/tree/main/maestro_gateway",
+  "url": "https://github.com/o0larrylurex0o/ha-addons/tree/main/maestro_gateway",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "init": false,
   "image": "ghcr.io/seblz/{arch}-addon-maestro_gateway",
