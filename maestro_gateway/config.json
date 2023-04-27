@@ -1,6 +1,6 @@
 {
   "name": "Maestro Gateway fork o0larryLurex0o",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "slug": "maestro_gateway_o0larrylurex0o",
   "description": "MQTT Gateway to MCZ Maestro stoves' api",
   "url": "https://github.com/o0larrylurex0o/ha-addons/tree/main/maestro_gateway",
